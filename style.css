@@ -1,0 +1,11 @@
+@media(max-width:800px){
+
+    .owner{
+        flex-direction: column;
+        background-color: red;
+    }
+}
+    .owner{
+        flex-direction: column;
+        color: red;
+    }
